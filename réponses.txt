@@ -1,0 +1,15 @@
+1) le mot clé java "this" fait référence a une variable qui est en paramètre dans un constructeur par exemple.
+
+2) le mot clé java "super" fait référence a la classe dont hérite la classe où l'on se situe.
+
+3) l'instanciation (représenté par le mot clé "new") permet de créer un ou plusieur objet issue d'une classe.
+
+4) Une Classe peut être définie comme un "moule" qui comporte des attributs et des mèthodes , un objet est quand a lui issue d'une classe , par exemple une classe "Véhicule" permet de créer plusieurs véhicule (véhicule n°1 ,véhicule n°2, etc ...).
+
+5) un mock est un objet simuler qui a pour but de tester le "comportement" d'un objet que l'on veut tester.
+
+6)Le scaffolding est une façons de développer un logiciel issu d'un model de conception MVC (Modèle Vue Contrôleur).
+
+7)un RAD (Rapid Application Development) est un outil utilisé par un développeur qui lui permet de développer plus rapidement.
+
+8) le refactoring consiste a retravailler un code pour en améliorer la visibilité et la compréhension.
